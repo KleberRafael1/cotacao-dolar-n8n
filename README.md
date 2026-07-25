@@ -99,6 +99,18 @@ cotacao-dolar-n8n
 
 ---
 
+## 📈 Resultado
+
+A automação elimina a necessidade de consulta manual da cotação,
+mantendo um histórico diário e enviando uma atualização automática
+por e-mail.
+
+O projeto demonstra integração entre APIs, serviços Google e
+automação de processos utilizando n8n.
+
+
+---
+
 ## ▶ Como executar
 
 1. Clone este repositório.
@@ -129,6 +141,15 @@ Durante o desenvolvimento foram aplicados conceitos de:
 - Registro de logs das execuções
 - Integração com banco de dados
 - Criação de dashboard de acompanhamento
+
+---
+
+## Release
+
+- v1.0.0 - Primeira versão estável
+
+Primeira versão da automação de cotação USD/BRL com integração API,
+Google Sheets e envio de e-mail via SMTP.
 
 ---
 
