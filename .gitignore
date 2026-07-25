@@ -1,0 +1,33 @@
+# Sistema Operacional
+
+.DS_Store
+Thumbs.db
+
+# VS Code
+
+.vscode/
+
+# Logs
+
+*.log
+
+# Arquivos temporários
+
+*.tmp
+*.temp
+
+# Variáveis de ambiente
+
+.env
+.env.*
+
+# Credenciais
+
+credentials.json
+service-account.json
+google-service-account.json
+
+# Backup de workflows
+
+*.bak
+*.backup
